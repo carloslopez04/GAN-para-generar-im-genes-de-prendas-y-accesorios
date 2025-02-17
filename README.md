@@ -1,9 +1,10 @@
 👕 Generación de Imágenes con GANs en Google Colab
 
 📌 Descripción:
-Este proyecto ha sido desarrollado en Google Colab con el objetivo de entrenar una GAN (Generative Adversarial Network) para la generación de imágenes de ropa. La imagen anterior representa los resultados obtenidos en la época 9 del entrenamiento, donde el modelo ya empieza a capturar algunos detalles de las prendas.
+Este proyecto ha sido desarrollado en Google Colab con el objetivo de entrenar una GAN (Generative Adversarial Network) para la generación de imágenes de ropa. La imagen anterior representa los resultados obtenidos en la época 10 del entrenamiento, donde el modelo ya empieza a capturar algunos detalles de las prendas.
 
-![image](https://github.com/user-attachments/assets/e5914b07-6ec2-4e84-99e2-ada736129e7f)
+![image](https://github.com/user-attachments/assets/0f442194-d7d0-4906-a844-4ffe35e71fdb)
+
 
 🚀 Tecnologías Utilizadas
 
