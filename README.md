@@ -58,3 +58,8 @@ Este proyecto demuestra el poder de las GANs para generar imágenes de ropa de m
 
 📩 Para más información o sugerencias, ¡contáctame! 😃
 
+⚠️ Notas : 
+
+Recalcar que el modelo esta entrenado con 10 epoca porque mi ordenador no es capaz de entrenar más rápido. 
+
+![image](https://github.com/user-attachments/assets/c367d0cf-93dd-43d8-9837-2ca88e658777)
